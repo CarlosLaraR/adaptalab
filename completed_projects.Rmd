@@ -1,0 +1,23 @@
+---
+title: "Completed Projects"
+author: "Carlos Lara Romero"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Older Research Projects
+
+## Project 3: [Project Name]
+![Project 3 Image](project_3_image_url.jpg)
+Brief summary of an older project.
+
+## Project 4: [Project Name]
+![Project 4 Image](project_4_image_url.jpg)
+Brief summary of another older project.
+
+...
+

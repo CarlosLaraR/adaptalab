@@ -1,0 +1,23 @@
+---
+title: "Projects"
+author: "Carlos Lara Romero"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Research Projects
+
+## Project 1: [Project Name]
+![Project 1 Image](project_1_image_url.jpg)
+Detailed description of the first project.
+
+## Project 2: [Project Name]
+![Project 2 Image](project_2_image_url.jpg)
+Detailed description of the second project.
+
+
+

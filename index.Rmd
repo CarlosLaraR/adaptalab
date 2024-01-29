@@ -1,0 +1,39 @@
+---
+title: "Home page"
+author: "Carlos Lara Romero"
+date: '`r Sys.Date()`'
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+# Research Group in [Research Area]
+
+![Group Image](group_image_url.jpg)
+
+Welcome to the website of the Research Group in [Research Area]. We are a dedicated team engaged in research in the field of [research area].
+
+
+- [Home](index.md)
+- [Projects](projects.md)
+  - [Ongoing Projects](ongoing_projects.md)
+  - [Older Projects](older_projects.md)
+- [Publications](publications.md)
+- [Outreach](outreach.md)
+- [Team](team.md)
+
+## Latest News
+Here you can add the latest news or updates from the group.
+
+## Upcoming Events
+You can list upcoming events, conferences, or seminars.
+
+## About Us
+A brief description of the group, its goals, and research focuses.
+
+### Our Mission
+A detailed explanation of the group
+

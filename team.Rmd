@@ -1,0 +1,36 @@
+---
+title: "Team"
+author: "Carlos Lara Romero"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Our Team
+
+## Principal Investigators
+1. ![Principal Investigator 1 Photo](pi_1_photo_url.jpg) [Name of Principal Investigator 1]
+   - Brief biography and research areas.
+
+2. ![Principal Investigator 2 Photo](pi_2_photo_url.jpg) [Name of Principal Investigator 2]
+   - Brief biography and research areas.
+
+## Doctoral Students
+1. ![Doctoral Student 1 Photo](student_1_photo_url.jpg) [Name of Doctoral Student 1]
+   - Research project and focus area.
+
+2. ![Doctoral Student 2 Photo](student_2_photo_url.jpg) [Name of Doctoral Student 2]
+   - Research project and focus area.
+
+## Technical and Administrative Staff
+1. ![Staff 1 Photo](staff_1_photo_url.jpg) [Name of Technical/Administrative Staff 1]
+   - Role and responsibilities.
+
+2. ![Staff 2 Photo](staff_2_photo_url.jpg) [Name of Technical/Administrative Staff 2]
+   - Role and responsibilities.
+
+...
+

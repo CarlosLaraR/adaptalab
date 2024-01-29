@@ -1,0 +1,19 @@
+---
+title: "Research Projects"
+author: "Carlos Lara Romero"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Research Projects
+
+## Ongoing Projects
+- [View Ongoing Projects](ongoing_projects.md)
+
+## Older Projects
+- [View Completed Projects](completed_projects.md)
+
